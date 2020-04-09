@@ -2,6 +2,10 @@
 
 A new Flutter application.
 
+In Order to run this app you need to install flutter SDK.
+if you haven't installed click [here](https://flutter.dev/docs/get-started/install) for the full guide.
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
